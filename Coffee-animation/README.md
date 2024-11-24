@@ -2,7 +2,7 @@
 
 An elegant animation of a coffee cup with smoke effect, created in HTML and CSS. This project demonstrates the use of CSS animations to create attractive visual effects. Ideal for developers wishing to add a professional touch to their portfolios or personal projects.
 
-<img width="739" alt="preview" src="https://github.com/user-attachments/assets/coffee-animation-preview.png">
+<img width="814" alt="miniature" src="https://github.com/user-attachments/assets/71773d35-65e5-45b9-acc5-27730ed26b36">
 
 ## Features
 
